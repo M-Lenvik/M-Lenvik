@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Marie!
-- I'm a student in front end developing at Medieinstitutet.
+I'm a student in front end developing at Medieinstitutet.
 
 - 🌱 I’m currently learning everything in front end basically..
       But right now focus is on Javascript
