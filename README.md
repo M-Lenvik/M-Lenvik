@@ -1,6 +1,13 @@
 # 👋 Hi, I’m Marie!
-I'm a student in front end developing at Medieinstitutet. <br>
+<!--I'm a student in front end developing at Medieinstitutet. <br>
 This fall I'm looking for my first internship and I'm looking forward to using all my new skills in sharp projects.
+-->
+I am a motivated frontend student at Medieinstitutet in Stockholm, with a master's degree in Interaction Design from KTH. I have experience with HTML, CSS, JavaScript, Vue, React, Node.js, Express, and SQL. I am passionate about user-centered design and accessible web solutions, and I have recently developed an interest in graphic design.  <br>
+I am currently looking for an internship (LIA) where I can apply my skills in practice and contribute to your team.  <br>
+Feel free to explore my projects on GitHub or check out my portfolio.  <br>
+  <br>
+https://github.com/M-Lenvik  <br>
+https://m-lenvik.github.io/Portfolio/
 
 ## 🌱 I’m currently learning everything in front end basically..
 But right now focus is on Javascript, API and frameworks
@@ -54,7 +61,8 @@ I’m extra interested in graphic design and UI/UX
 
 
 ## 📫 Contact 
- Reach me by sending an e-mail at lenvik.marie@gmail.com or reach out on LinedIn.
+ Reach me by sending an e-mail at marie.lenvik@medieinstitutet.se or reach out on LinedIn. <br> 
+ https://www.linkedin.com/in/marie-lenvik-37303385/
 
  
 ## ⚡ Fun facts 
