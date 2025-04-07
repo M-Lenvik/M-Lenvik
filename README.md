@@ -15,8 +15,10 @@ But right now focus is on Javascript, API and frameworks
 - UX/Usability, 15 yhp
 - Grafiska verktyg för gränssnittsdesign, 15 yhp
 
-**Upcoming courses**
+**Currently learning**
 - API-utveckling, 45 yhp
+ 
+**Upcoming courses**
 - JavaScript ramverk, 60 yhp
 - Testning, 15 yhp
   
