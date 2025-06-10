@@ -10,7 +10,7 @@ https://github.com/M-Lenvik  <br>
 https://m-lenvik.github.io/Portfolio/
 
 ## 🌱 I’m currently learning everything in front end basically..
-But right now focus is on Javascript, API and frameworks
+But right now focus is on Frameworks, in particular React
 
 ## 👩‍🎓 My education
 **Please see my repositories for course description and results** <br>
@@ -21,12 +21,12 @@ But right now focus is on Javascript, API and frameworks
 - Arbetsmetodik för utvecklare, 10 yhp
 - UX/Usability, 15 yhp
 - Grafiska verktyg för gränssnittsdesign, 15 yhp
+- API-utveckling, 45 yhp
 
 **Currently learning**
-- API-utveckling, 45 yhp
+- JavaScript ramverk, 60 yhp
  
 **Upcoming courses**
-- JavaScript ramverk, 60 yhp
 - Testning, 15 yhp
   
 ## 👩‍💻 Tech knowledge
