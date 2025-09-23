@@ -2,7 +2,7 @@
 <!--I'm a student in front end developing at Medieinstitutet. <br>
 This fall I'm looking for my first internship and I'm looking forward to using all my new skills in sharp projects.
 -->
-I am a motivated frontend student at Medieinstitutet in Stockholm, with a master's degree in Interaction Design from KTH. I have experience with HTML, CSS, JavaScript, Vue, React, Node.js, Express, and SQL. I am passionate about user-centered design and accessible web solutions, and I have recently developed an interest in graphic design.  <br>
+I am a motivated frontend student at Medieinstitutet in Stockholm. I have experience with HTML, CSS, JavaScript, Vue, React, Node.js, Express, and SQL. I am passionate about user-centered design and accessible web solutions, and I have recently developed an interest in graphic design.  <br>
 I am currently looking for an internship (LIA) where I can apply my skills in practice and contribute to your team.  <br>
 Feel free to explore my projects on GitHub or check out my portfolio.  <br>
   <br>
