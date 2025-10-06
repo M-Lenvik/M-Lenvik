@@ -22,12 +22,14 @@ But right now focus is on Frameworks, in particular React
 - UX/Usability, 15 yhp
 - Grafiska verktyg för gränssnittsdesign, 15 yhp
 - API-utveckling, 45 yhp
+- JavaScript ramverk, 60 yhp
+- Testning, 15 yhp
 
 **Currently learning**
-- JavaScript ramverk, 60 yhp
+- LIA 1, 40 yhp
  
 **Upcoming courses**
-- Testning, 15 yhp
+- Examensarbete, 25 yhp
   
 ## 👩‍💻 Tech knowledge
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
