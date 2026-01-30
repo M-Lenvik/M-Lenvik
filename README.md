@@ -24,18 +24,19 @@ But right now focus is on Frameworks, in particular React
 - API-utveckling, 45 yhp
 - JavaScript ramverk, 60 yhp
 - Testning, 15 yhp
+- LIA 1 at wndy, 40 yhp
+- Examensarbete, 25 yhp
 
 **Currently learning**
-- LIA 1, 40 yhp
+- LIA 2 at wndy, 80 yhp
  
-**Upcoming courses**
-- Examensarbete, 25 yhp
+
   
 ## 👩‍💻 Tech knowledge
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) <br>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -48,6 +49,7 @@ But right now focus is on Frameworks, in particular React
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br>
 
 
 ### Tools
