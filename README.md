@@ -9,8 +9,7 @@ Feel free to explore my projects on GitHub or check out my portfolio.  <br>
 https://github.com/M-Lenvik  <br>
 https://m-lenvik.github.io/Portfolio/
 
-## 🌱 I’m currently learning everything in front end basically..
-But right now focus is on Frameworks, in particular React
+## 🌱 I’m currently doing my intern at Wndy and I'm learning a lot!
 
 ## 👩‍🎓 My education
 **Please see my repositories for course description and results** <br>
