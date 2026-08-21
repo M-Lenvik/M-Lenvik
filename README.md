@@ -1,35 +1,39 @@
-# 👋 Hi, I’m Marie!
-<!--I'm a student in front end developing at Medieinstitutet. <br>
-This fall I'm looking for my first internship and I'm looking forward to using all my new skills in sharp projects.
--->
-I am a motivated frontend student at Medieinstitutet in Stockholm. I have experience with HTML, CSS, JavaScript, Vue, React, Node.js, Express, and SQL. I am passionate about user-centered design and accessible web solutions, and I have recently developed an interest in graphic design.  <br>
-I am currently looking for an internship (LIA) where I can apply my skills in practice and contribute to your team.  <br>
-Feel free to explore my projects on GitHub or check out my portfolio.  <br>
-  <br>
-https://github.com/M-Lenvik  <br>
-https://m-lenvik.github.io/Portfolio/
+## 👋 Hi, I'm Marie!
 
-## 🌱 I’m currently doing my intern at Wndy and I'm learning a lot!
+I'm a frontend developer based in Stockholm, recently graduated from Medieinstitutet with a strong focus on React. I have experience with HTML, CSS, JavaScript, Vue, React, Node.js, Express, and SQL, and I'm passionate about user-centered design and accessible web solutions. I've also developed a growing interest in graphic design.
 
-## 👩‍🎓 My education
-**Please see my repositories for course description and results** <br>
-**Completed courses**
-- HTML och CSS, 20 yhp
-- JavaScript, 40 yhp
-- Agilt projektarbete, 10 yhp
-- Arbetsmetodik för utvecklare, 10 yhp
+I've just completed two internship (LIA) periods at Wndy, where I built reusable components, conducted UX audits, and drove accessibility improvements in a production environment. 
+
+I'm now looking for my next step as a frontend developer — whether as an employee or on a freelance basis.
+
+Feel free to explore my projects here on GitHub or check out my portfolio.
+
+🔗 GitHub 🔗 Portfolio
+
+
+## 💼 Experience highlights
+LIA 1 & 2 at Wndy – built global reusable components (onboarding/empty-state, FilterBar, toast, ContentGrid), fixed responsiveness bugs, introduced GitHub Issues as a working method for the team, and produced a UX/accessibility improvement document (WCAG 2.1 AA)
+Degree project – SåSmart, a web-based planting planner built in React
+
+
+## 👩‍🎓 Education
+Please see my repositories for course descriptions and results
+
+
+***Completed courses (Medieinstitutet)***
+- HTML and CSS, 20 yhp
+-JavaScript, 40 yhp
+- Agile project work, 10 yhp
+- Working methods for developers, 10 yhp
 - UX/Usability, 15 yhp
-- Grafiska verktyg för gränssnittsdesign, 15 yhp
-- API-utveckling, 45 yhp
-- JavaScript ramverk, 60 yhp
-- Testning, 15 yhp
-- LIA 1 at wndy, 40 yhp
-- Examensarbete, 25 yhp
-
-**Currently learning**
-- LIA 2 at wndy, 80 yhp
+- Graphic tools for interface design, 15 yhp
+- API development, 45 yhp
+- JavaScript frameworks, 60 yhp
+- Testing, 15 yhp
+- LIA 1 at Wndy, 40 yhp
+- Degree project, 25 yhp
+- LIA 2 at Wndy, 80 yhp
  
-
   
 ## 👩‍💻 Tech knowledge
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -63,9 +67,8 @@ https://m-lenvik.github.io/Portfolio/
 I’m extra interested in graphic design and UI/UX
 
 
-## 📫 Contact 
- Reach me by sending an e-mail at marie.lenvik@medieinstitutet.se or reach out on LinedIn. <br> 
- https://www.linkedin.com/in/marie-lenvik-37303385/
+## 📫 Get in touch
+Feel free to reach out if you have an opportunity that could be a good fit, or just want to talk frontend!
 
  
 ## ⚡ Fun facts 
