@@ -8,7 +8,7 @@ I'm now looking for my next step as a frontend developer — whether as an emplo
 
 Feel free to explore my projects here on GitHub or check out my portfolio.
 
-🔗 GitHub 🔗 Portfolio
+🔗 [Repositories on GitHub](https://github.com/M-Lenvik?tab=repositories) 🔗 [Portfolio](https://www.lenvik.eu)
 
 
 ## 💼 Experience highlights
@@ -17,22 +17,22 @@ Degree project – SåSmart, a web-based planting planner built in React
 
 
 ## 👩‍🎓 Education
-Please see my repositories for course descriptions and results
+Please see my repositories for course descriptions
 
 
 ***Completed courses (Medieinstitutet)***
-- HTML and CSS, 20 yhp
--JavaScript, 40 yhp
-- Agile project work, 10 yhp
-- Working methods for developers, 10 yhp
-- UX/Usability, 15 yhp
-- Graphic tools for interface design, 15 yhp
-- API development, 45 yhp
-- JavaScript frameworks, 60 yhp
-- Testing, 15 yhp
-- LIA 1 at Wndy, 40 yhp
-- Degree project, 25 yhp
-- LIA 2 at Wndy, 80 yhp
+- HTML and CSS, Grade: Pass (G), 20 yhp
+- JavaScript, Grade: Pass (G), 40 yhp
+- Agile project work, Grade: Pass (G), 10 yhp
+- Working methods for developers, Grade: Pass (G), 10 yhp
+- UX/Usability, Grade: Pass with distinction (VG), 15 yhp
+- Graphic tools for interface design, Grade: Pass with distinction (VG), 15 yhp
+- API development, Grade: Pass with distinction (VG), 45 yhp
+- JavaScript frameworks, Grade: Pass with distinction (VG), 60 yhp
+- Testing, Grade: Pass with distinction (VG), 15 yhp
+- LIA 1 at Wndy, Grade: Pass with distinction (VG), 40 yhp
+- Degree project, Grade: Pass with distinction (VG), 25 yhp
+- LIA 2 at Wndy, Grade: Pass with distinction (VG), 80 yhp
  
   
 ## 👩‍💻 Tech knowledge
